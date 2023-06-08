@@ -1,0 +1,22 @@
+Variables validas: (snake case)
+monto_sin_iva
+edad_menor
+mes_actual
+
+Constantes: (mayúsculas)
+TARIFA1
+PI
+REPETICION
+
+Funciones: (lower camell case)
+llenarArreglo
+ordenarPorAlgoritmoDeBurbuja
+calcularAreaCirculo
+
+Clases: (upper camell case)
+Producto
+Persona
+Avion
+Nave
+Libro
+
